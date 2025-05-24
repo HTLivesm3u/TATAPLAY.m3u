@@ -1130,13 +1130,9 @@ https://tataplay-mpd-six.vercel.app/?tv=634
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tataplay-mpd-six.vercel.app/?id=114
 
-#EXTINF:-1 tvg-id="ts345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama
-#EXTVLCOPT:http-user-agent=Denver1769
-https://port.denver1769.in/Share5.php?id=18456
 
-#EXTINF:-1 tvg-id="ts345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama
-#EXTVLCOPT:http-User-Agent=XCIPTV-v5.0.1
-https://port.denver1769.in/oplx3.php?id=150480|User-Agent=XCIPTV-v5.0.1
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=71
